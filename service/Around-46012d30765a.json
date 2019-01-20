@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "acoustic-field-225722",
+  "private_key_id": "46012d30765a9f24b8b3748298e8a6ce6f5fc019",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBA+2vy7/SAiwm\nLROx0y0VNFd8ibjqV0VVcpepJlX5VKQbv/CrXZ+KzcYqs0QM70QsmxkAvQWt15h+\noJpNhMwrXw++4GgXLyJzf4oykrrSO73bNte6L16ni8gBYk4VAw0n0R8oIlOdgn3H\nlR6eLruKc5ZrEmgRINznFz/JTBY7xXWPK846nly0p1CzPfQaeS/Yu5AxtupxywhT\nPypM2UBZxe6FXsXEdX7IgyoRC3MwLVlamUscqxnnNHKDacQkEhs7eON1d4LiNuYW\nop3MoyLbqv5uyObzQp0wvepiQuVt51BcOkzJSz357k4gjbAOkYyOoc8H6UX1L7CA\nOh5VQr/NAgMBAAECggEAAYbiNOrr7qi0aEKvBzOK6VBA6Ov3xISXVO7TW96INj8r\nnEnrwbLYIHqHziAA6124TQLsMwu9iN8xTWnOgHYK6+Fbhk7PtcSTPk43UW+Lt7BD\nhVbe1nWNeQcrm+AVNZo7d0yA4CZnJSeeAHETjScEmax0aUeJ/zbpyHP+aISWPOJZ\n6SSxGKc0d/pUTxf/Fk+/VsvuTtYPG5jYoVOKcydBZROHdXVyp/iZV7Qt+SAzsxkG\nYsV+OlbBYL0bDLoNKY4fYn9e8QWSRg0YWexnr/RoSaqnLCzVjNQBy+kMnujaUHlz\nEnSGlBgCYLuT+PfTiOzLWdk3C9XFu4g5hsRMt5Hx2QKBgQD4b4q0Pgkc8/SW2PsT\nMo4VOX+eonjefZhUw7ghG0TpdD6xRZeLK+iFHEJNLDT09A47W3ZJdICQAK6Hi8GY\nV6qJkGA+yja3uI5WbMaQ9+N2Ed+61At7GJ1IXm3nEbTByUYdEZilwQBXSy677fFb\nzPdGXe793Qa0+xM2U++admWyKwKBgQDG5Ggkn+6QXmzLzdIYt1W28CLtq18aY3yo\nLFtdO7Xdl0YDz7wy+3S8ExY6SbP1oz03/lGWUHIAxLT8m2EC2A9SKF0sGe/U5Ud4\njmIAzXW0+0Gv8BtEMFgaKCSEYJ3GYCpB7sRBchx4zkM6XRDVXdwyAv2mZylWEPTH\n6775WI5x5wKBgQC9PDlrEdXfN/QW8zBMbzXK9QFA1IE8+G4QIwUeMqdLLECUx22n\nlMqImf3mysWL0FsG26Q+T3+eMObAWLQeVqiQIGkvathDGVFSg4i85BVe2j6REPOt\n0BH+De+pEtOcyLOfcMfVei3IUHxIqfYu9vFjqCljNfjl4lnACC96eLT+AQKBgFR0\npvhuZUounnpIct+F8kLVY6+Spra46jUraLyFX2uyEcwKiTsI5f/7BuRHacBzycoe\nFx0CGfbTkJr3i9E+V/smIrJYbSv1FE1QALOgi0wHqVQBXEKvWKn6w87mi/ix2x/W\nOMYlo4t04r1EyaIg0iD2fikMA1SFrLu8EoMlJI+fAoGBALf/zAreyY9dFQgyshQl\nAU8USTsXqJ8wOf5ydWUJt0QZeP29O8kDFxxTjg859TY0XEu+Jx6Vrk3ORV3cbRk5\nnbdWjlNfy/BAqprpC5IDm9AbTGDlH08shx2LEntNZRiSOJSTX3auPCVtADykbTg6\nZHa/YjjyJfCK4/l+xR+wWyxQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-service-account@acoustic-field-225722.iam.gserviceaccount.com",
+  "client_id": "100346792796647351860",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-service-account%40acoustic-field-225722.iam.gserviceaccount.com"
+}

@@ -1,0 +1,1 @@
+mvn compile exec:java -Dexec.mainClass=com.around.PostDumpFlow -Dexec.args=" --project=acoustic-field-225722 --stagingLocation=gs://dataflow-around-you/staging/ --tempLocation=gs://dataflow-around-you/output --runner=DataflowPipelineRunner --jobName=dataflow-intro"
